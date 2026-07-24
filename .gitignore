@@ -32,3 +32,8 @@ devenv.local.yaml
 
 # pre-commit
 .pre-commit-config.yaml
+
+.dev.vars*
+!.dev.vars.example
+
+worker-configuration.d.ts
